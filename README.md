@@ -21,7 +21,10 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 * Alhtough temperature is noticeably lower in December than in June, daytime temperatures are forecast to allow for surfing and ice cream.  The lower nighttime temperatures create the opportunity to sell something warm such as tea or coffee along with warm desserts.
 
 ## Data Visual Aids
+### June Temp
 ![June_Temp](https://github.com/basecipher/surfs_up/blob/main/Resources/summary%20statistics%20for%20the%20June%20temperature.png).
+
+### Dec. Temp
 ![Dec_Temp](https://github.com/basecipher/surfs_up/blob/main/Resources/list%20of%20temperatures%20for%20the%20month%20of%20December.png).
 
 ## Challenge Overview
