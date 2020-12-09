@@ -20,6 +20,10 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 * Max temperature observed in each month is more or less the same, 85° in June while 83° in December. Standard deviation with all these data points suggest that the opportunities for ice cream along with surfing will be consistent througout the whole year.
 * Alhtough temperature is noticeably lower in December than in June, daytime temperatures are forecast to allow for surfing and ice cream.  The lower nighttime temperatures create the opportunity to sell something warm such as tea or coffee along with warm desserts.
 
+## Data Visual Aids
+![June_Temp](https://github.com/basecipher/surfs_up/blob/main/Resources/summary%20statistics%20for%20the%20June%20temperature.png).
+![Dec_Temp](https://github.com/basecipher/surfs_up/blob/main/Resources/list%20of%20temperatures%20for%20the%20month%20of%20December.png).
+
 ## Challenge Overview
 * I enjoyed the challenge of using Flask and sql alchemy.  Found SQLite to be very useful tool to stage a Postgres or Mysql deployment.
 * It was interesting creating an SQLite database for my weather API using Pandas & SQLAlchemy and the CSV files provided to create my SQLite database.
